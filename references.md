@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resources
+title: Resources TODO
 ---
 
 ## Prerequisites
@@ -10,7 +10,7 @@ title: Resources
 - [Data 8 Textbook](http://inferentialthinking.com/)
 
 #### Double Integrals
-[Here](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/video-lectures/lecture-16-double-integral) is a beautiful lecture by Prof. [Denis Auroux](https://math.berkeley.edu/~auroux/) of the Berkeley Math department, recorded when he was at MIT. If you have studied double integrals before, you can start at around 15:30. 
+[Here](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/video-lectures/lecture-16-double-integral) is a beautiful lecture by Prof. [Denis Auroux](https://math.berkeley.edu/~auroux/) of the Berkeley Math department, recorded when he was at MIT. If you have studied double integrals before, you can start at around 15:30.
 
 #### Mathematical Induction
 [Here](https://www.cs.cmu.edu/~adamchik/21-127/lectures/induction_1_print.pdf) is a clear and concise exposition, with several examples, by Prof. [Victor Adamchik](http://www.cs.cmu.edu/~adamchik/) of the CS department at Carnegie Mellon.

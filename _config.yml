@@ -16,7 +16,7 @@ url:              http://stat154.github.io
 baseurl:          /
 
 author:
-  name:           'Yuansi Chen, Raaz Dwevedi'
+  name:           'Yuansi Chen, Raaz Dwivedi'
   url:            http://stat154.github.io
 
 paginate:         5

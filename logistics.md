@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Prob 140 Course Information, Fall 2018
+title: Stat 154 Course Information, Spring 2019 TODO
 ---
 #### A. Adhikari ####
 
@@ -47,7 +47,7 @@ Students have found these methods to be useful. For their advice, see the [About
 
 ### The Required Components of Your Work ###
 - **Weekly homework** which you will turn in on Gradescope. Some of the homework will be done in Jupyter Notebooks. Homework will be posted on Monday and will be **due by 8 p.m. on Tuesday** of the following week. In some weeks there may be deviations from this due to exams or holidays; we'll let you know.
-- **Weekly lab** typically involving both math and computing. **You may attend only the lab in which you are enrolled.** Labs will be posted on Monday and will be **due by noon on Saturday** of the same week. **Do not expect to complete the entire lab during your 2-hour lab session.** Labs have mathematical as well as computational components. How long it will take you to complete each lab will depend on your fluency with both of these aspects. Part of discussion section content will be pertinent to lab; we recommend that you familiarize yourself with the lab at the latest after attending section on Thursday, and preferably get started earlier in the week. Labs will be graded for correctness as well as completion. 
+- **Weekly lab** typically involving both math and computing. **You may attend only the lab in which you are enrolled.** Labs will be posted on Monday and will be **due by noon on Saturday** of the same week. **Do not expect to complete the entire lab during your 2-hour lab session.** Labs have mathematical as well as computational components. How long it will take you to complete each lab will depend on your fluency with both of these aspects. Part of discussion section content will be pertinent to lab; we recommend that you familiarize yourself with the lab at the latest after attending section on Thursday, and preferably get started earlier in the week. Labs will be graded for correctness as well as completion.
 - **Quizzes** four times during the term, **in the discussion section in which you are enrolled**. No computers involved.
     - Quiz 1: Thursday 9/6 (Week 3)
     - Quiz 2: Thursday 9/20 (Week 5)
