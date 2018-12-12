@@ -1,0 +1,23 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <div class="tooltip">
+        <a href="/" > <img class="iconIMG" src="/assets/icon.png"> </a>
+        <!--<span class="tooltiptext">Logo Design by Biyonka Liang</span>-->
+      </div>
+      <p class="lead">Fall 2018 - Ani Adhikari</p>
+    </div>
+    <nav class="sidebar-nav">
+
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
+      {% assign pages_list = site.data.side_links.links %}
+      {% for node in pages_list %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.name }}</a>
+      {% endfor %}
+    </nav>
+
+  </div>
+</div>

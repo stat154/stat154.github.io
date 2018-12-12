@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Prob 140'
+tagline:          'Probability for Data Science'
+description:      'Probability for Data Science <br /> Ani Adhikari <br />'
+url:              http://prob140.org
+baseurl:          /
+
+author:
+  name:           'Dibya Ghosh, Jason Zhang'
+  url:            http://prob140.org
+
+paginate:         5
+
+
+github:
+  repo:           https://github.com/poole/hyde
