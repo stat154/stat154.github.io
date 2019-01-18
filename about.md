@@ -15,7 +15,7 @@ Mathematics 53 or equivalent; Mathematics 54, Electrical Engineering 16A, Statis
 
 ### What is the best way to succeed in Stat 154? ###
 
-Prob 154 is an upper division course that requires both mathematical and programming backgrounds. Students are expected to have a corresponding degree of independence, discipline, and mathematical maturity.
+Stat 154 is an upper division course that requires both mathematical and programming backgrounds. Students are expected to have a corresponding degree of independence, discipline, and mathematical maturity.
 
 In every class I teach, I aim to make learning as efficient and enjoyable as possible. In particular, I try to make the lectures a great way to learn the material, so show up (there will be no videos) and ask lots of questions. A preparation guide is provided each week; it lists the reading and practice that students should do before attempting the week's assignments. These lists aren't just decoration. They are designed to be helpful. Homework will go faster if you've done the reading and some practice first.
 
