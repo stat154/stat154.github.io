@@ -9,7 +9,7 @@ title: About Stat 154
 
 Theory and practice of statistical prediction. Contemporary methods as extensions of classical methods. Topics: optimal prediction rules, the curse of dimensionality, empirical risk, linear regression and classification, basis expansions, regularization, splines, the bootstrap, model selection, classification and regression trees, boosting, support vector machines. Computational efficiency versus predictive performance. Emphasis on experience with real data and assessing statistical assumptions.
 
-### Stat 154 requisites ###
+### Stat 154 prerequisites ###
 
 Mathematics 53 or equivalent; Mathematics 54, Electrical Engineering 16A, Statistics 89A, Mathematics 110 or equivalent linear algebra; Statistics 133, 134; Statistics 135 or equivalent; experience with some programming language. Recommended prerequisite: Mathematics 55 or equivalent exposure to counting arguments.
 

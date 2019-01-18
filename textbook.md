@@ -11,4 +11,9 @@ title: Textbook
 ### Recommended ###
 - Statistical Models: Theory and Practice [2009 Edition]
 
-**Author **: David Freedman
+**Author**: David Freedman
+
+- The Elements of Statistical Learning: Data Mining, Inference, and Prediction [2009 Edition]
+
+**Author**: Trevor Hastie, Robert Tibshirani, Jerome Friedman
+
