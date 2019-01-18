@@ -1,6 +1,7 @@
-# Stat 140 Website
+# Stat 154 Spring 2019 Website
 
-Access the live version at [prob140.org](http://probability.gitlab.io)
+Access the live version at [stat154.github.io](http://stat154.github.io).
+This is based on [Prob 140 website](https://github.com/prob140/prob140.github.io) with the Permission from Prof. Ani Adhikari.
 
 Based on Hyde (a Jekyll Theme)
 ![Hyde screenshot](https://f.cloud.github.com/assets/98681/1831228/42af6c6a-7384-11e3-98fb-e0b923ee0468.png)
