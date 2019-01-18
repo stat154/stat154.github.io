@@ -35,6 +35,6 @@ Course grades will be assigned using the following weighted components:
 - Final 25%
 
 ### Collaboration and Integrity ###
-Copying assignments from one another is not only dishonest, it also doesn’t help anyone. Each exercise requires its own combination of ideas, and each student needs practice in coming up with those combinations, or else they will be at a loss when trying to use probability theory in their future work. From a purely practical perspective, all students must work independently on Prob 140 quizzes and exams – no collaboration allowed. If a test is the first time a student works independently, then the test is not likely to go well.
+Copying assignments from one another is not only dishonest, it also doesn’t help anyone. From a purely practical perspective, all students must work independently on Stat 154 midterm and final exams – no collaboration allowed. If a test is the first time a student works independently, then the test is not likely to go well.
 
 Stat 154 materials including exams and solutions are the intellectual property of the course developers. From the campus statement on [Academic Integrity](https://teaching.berkeley.edu/statements-course-policies): "... students may not circulate or post materials (handouts, exams, syllabi,–any class materials) from their classes without the written permission of the instructor."
