@@ -4,14 +4,14 @@ weeks:
     weekDuration: 01/22--01/25
     basic:
     - date: Tue 01/22
-      content: "Lecture 1: Introduction"
+      content: "Lecture 1: Introduction and quick review of math concepts"
       assignments:
         - name: Week 1 Reading and Guide
           url: /prep/prep01
         - name: HW 0 (Try out Gradescope, Due 01/30)
           url:
     - date: Thu 01/29
-      content: "Lecture 2: Introduction to PCS framework"
+      content: "Lecture 2: Problem formulation with a case study and data collection"
       assignments:
         - name: HW 1 (Matrix algebra, Due 02/06)
           url:
@@ -23,12 +23,12 @@ weeks:
     - date: Mon 01/28
       content: Lab
     - date: Tue 01/29
-      content: "Lecture 3: Problem formulation with a case study and data collection"
+      content: "Lecture 3: Introduction to PCS, internal and external validity"
       assignments:
         - name: "Week 2 Guide"
           url: /prep/prep02
     - date: Thu 01/31
-      content: "Lecture 4: Review of matrix algebra and gradient methods"
+      content: "Lecture 4: Cross-validation (CV), PQR-S"
 
   - weekNum: 3
     weekName: Data Preprocessing
@@ -55,61 +55,61 @@ weeks:
     - date: Mon 02/11
       content: "Lab"
     - date: Tue 02/12
-      content: "Lecture 7: EDA continued: PCA"
+      content: "Lecture 7: EDA continued: PCA, K-means"
       assignments:
         - name: Week 4 Guide
           url: /prep/prep04
 
     - date: Thu 02/14
-      content: "Lecture 8: EDA continued: K-means"
+      content: "Lecture 8: EDA continued: other unsupervised learning methods"
 
 
   - weekNum: 5
-    weekName: Exploratory data analysis (EDA) 2
+    weekName: Regression
     weekDuration: 02/18--02/21
     basic:
     - date: Mon 02/18
       content: "Lab"
     - date: Tue 02/19
-      content: "Lecture 9: EDA continued: Ohter clustering methods"
+      content: "Lecture 9: Least squares"
       assignments:
         - name: Week 5 Guide
           url: /prep/prep05
 
     - date: Thu 02/21
-      content: "Lecture 10: Regression"
+      content: "Lecture 10: Linear regression"
       assignments:
         - name: Project 1 (EDA on Redwoord data, Due 03/06)
           url:
 
 
   - weekNum: 6
-    weekName: Linear regression
+    weekName: Linear regression 2
     weekDuration: 02/25--02/28
     basic:
     - date: Mon 02/25
       content: "Lab"
     - date: Tue 02/26
-      content: "Lecture 9: Linear regression"
+      content: "Lecture 11: Regularizations in linear regression"
       assignments:
         - name: Week 6 Guide
           url: /prep/prep06
     - date: Thu 02/28
-      content: "Lecture 10: Regularizations in linear regression"
+      content: "Lecture 12: Regularizations in linear regression"
 
   - weekNum: 7
-    weekName: Linear regression 2
+    weekName: Model selection
     weekDuration: 03/04--03/07
     basic:
     - date: Mon 03/04
       content: "Lab"
     - date: Tue 03/05
-      content: "Lecture 11: Regularizations"
+      content: "Lecture 13: Model selection"
       assignments:
         - name: Week 7 Guide
           url: /prep/prep07
     - date: Thu 03/07
-      content: "Lecture 12: Model Assessment"
+      content: "Lecture 14: Model Assessment"
       assignments:
         - name: HW 3 (Linear regression, TBA, Due 03/20)
           url:
@@ -122,26 +122,26 @@ weeks:
     - date: Mon 03/11
       content: "Lab"
     - date: Tue 03/12
-      content: "Lecture 13: Bias-variance trade-off"
+      content: "Lecture 15: Bias-variance trade-off"
       assignments:
         - name: Week 8 Guide
           url: /prep/prep08
     - date: Thu 03/14
-      content: "Lecture 14: Classification: introduction"
+      content: "Lecture 16: Classification: introduction"
 
   - weekNum: 9
-    weekName: Classification
+    weekName: Midterm
     weekDuration: 03/18--03/21
     basic:
     - date: Mon 03/18
       content: "Lab"
     - date: Tue 03/19
-      content: "Lecture 15: Classification: logistic regression"
+      content: "Lecture 17: Classification: introduction"
       assignments:
         - name: Week 9 Guide
           url: /prep/prep09
     - date: Thu 03/21
-      content: "Lecture 16: Midterm review"
+      content: "Midterm in class"
       assignments:
         - name: HW 4 (Classification, TBA, Due 04/03)
           url:
@@ -157,35 +157,35 @@ weeks:
       content: "Spring break"
 
   - weekNum: 11
-    weekName: Midterm
+    weekName: Classification 2
     weekDuration: 04/01--04/04
     basic:
     - date: Mon 04/01
-      content: "Lab: Midterm review"
+      content: "Lecture 18: Classification: logistic regression"
     - date: Tue 04/02
       content: "Midterm in class"
       assignments:
         - name: Week 11 Guide
           url: /prep/prep11
     - date: Thu 04/04
-      content: "Lecture 17: Classification: Support vector machine (SVM)"
+      content: "Lecture 19: Classification: Support vector machine (SVM)"
       assignments:
         - name: Project 2 (Classification on cloud data, Due 04/17)
           url:
 
   - weekNum: 12
-    weekName: Classification 2
+    weekName: Kernel
     weekDuration: 04/08--04/11
     basic:
     - date: Mon 04/08
       content: "Lab"
     - date: Tue 04/09
-      content: "Lecture 18: Classification: Support vector machine (SVM) continued"
+      content: "Lecture 20: Kernel methods"
       assignments:
         - name: Week 12 Guide
           url: /prep/prep12
     - date: Thu 04/11
-      content: "Lecture 19: Kernel methods"
+      content: "Lecture 21: Kernel methods"
 
   - weekNum: 13
     weekName: Nonlinear classification
@@ -194,7 +194,7 @@ weeks:
     - date: Mon 04/15
       content: "Lab"
     - date: Tue 04/16
-      content: "Lecture 20: Kernel methods"
+      content: "Lecture 20: Nearest Neighbor"
       assignments:
         - name: Week 13 Guide
           url: /prep/prep13
@@ -225,7 +225,7 @@ weeks:
     - date: Mon 04/29
       content: "Lab"
     - date: Tue 04/30
-      content: "Lecture 24: Final Review"
+      content: "Lecture 24: Interpretable machine learning"
       assignments:
         - name: Week 15 Guide
           url: /prep/prep15
