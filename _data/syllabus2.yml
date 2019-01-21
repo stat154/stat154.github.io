@@ -161,9 +161,9 @@ weeks:
     weekDuration: 04/01--04/04
     basic:
     - date: Mon 04/01
-      content: "Lecture 18: Classification: logistic regression"
+      content: "Lab"
     - date: Tue 04/02
-      content: "Midterm in class"
+      content: "Lecture 18: Classification: logistic regression"
       assignments:
         - name: Week 11 Guide
           url: /prep/prep11
