@@ -14,5 +14,6 @@ title: Resources
 
 ## R
 - Main Textbook
+- [R knitr explanation](https://yihui.name/knitr/)
 - [Quick-R website](https://www.statmethods.net/r-tutorial/index.html)
 

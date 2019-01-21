@@ -3,7 +3,6 @@ layout: page
 title: LaTeX Introduction
 ---
 
-<a href="http://prob140.berkeley.edu/user-redirect/interact?repo=prob140&path=Latex.ipynb" class="button"> Click Here to Launch Interact </a>
 
 # An Introduction to $\LaTeX$ (LaTeX)
 
