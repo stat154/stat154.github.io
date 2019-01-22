@@ -14,6 +14,7 @@ title: Resources
 
 ## R
 - Main Textbook
+- [R Studio online learning](https://www.rstudio.com/online-learning/#R)
 - [R knitr explanation](https://yihui.name/knitr/)
 - [Quick-R website](https://www.statmethods.net/r-tutorial/index.html)
 
