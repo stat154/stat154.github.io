@@ -14,7 +14,7 @@ TU, TH 8:00 am - 9:29 am
 - **Biweekly homework** which you will turn in on Gradescope. Most of the homework will be done in R Markdown. Homework will be posted on Thursday and will be due by 6 p.m. on Wednesday two weeks later. In some weeks there may be deviations from this due to exams or holidays; we'll let you know.
 - **Weekly lab** typically involving both math and computing. **You may attend only the lab in which you are enrolled.**
 - **Two Projects**.
-- **Midterm in class on Tuesday April 2**, in Week 9 before the Spring break. No substitutes except as required by university rules. No computers involved.
+- **Midterm in class on Thursday March 21**, in Week 9 before the Spring break. No substitutes except as required by university rules. No computers involved.
 - **Final Exam on Thursday May 16, 7-10 pm**, in Week 17. Room to be announced. No substitutes except as required by university rules. No computers involved. **The final is required for a passing grade. Please make sure that you are not enrolled in a class that has a conflicting final exam.**
 
 ### Grading ###
