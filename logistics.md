@@ -15,7 +15,7 @@ TU, TH 8:00 am - 9:29 am
 - **Weekly lab** typically involving both math and computing. **You may attend only the lab in which you are enrolled.**
 - **Two Projects**.
 - **Midterm in class on Tuesday April 2**, in Week 9 before the Spring break. No substitutes except as required by university rules. No computers involved.
-- **Final Exam on TBA**, in Week 17. Room to be announced. No substitutes except as required by university rules. No computers involved. **The final is required for a passing grade. Please make sure that you are not enrolled in a class that has a conflicting final exam.**
+- **Final Exam on Thursday May 16, 7-10 pm**, in Week 17. Room to be announced. No substitutes except as required by university rules. No computers involved. **The final is required for a passing grade. Please make sure that you are not enrolled in a class that has a conflicting final exam.**
 
 ### Grading ###
 Course grades will be assigned using the following weighted components:
