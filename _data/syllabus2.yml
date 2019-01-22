@@ -9,7 +9,7 @@ weeks:
         - name: Week 1 Reading and Guide
           url: /prep/prep01
         - name: HW 0 (Try out Gradescope, due 01/30 6pm)
-          url: /homework/hm0.pdf
+          url: /homework/hw0.pdf
     - date: Thu 01/29
       content: "Lecture 2: Problem formulation with a case study and data collection"
       assignments:
