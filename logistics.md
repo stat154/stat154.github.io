@@ -18,9 +18,6 @@ TU, TH 8:00 am - 9:29 am
 - **Final Exam on TBA**, in Week 17. Room to be announced. No substitutes except as required by university rules. No computers involved. **The final is required for a passing grade. Please make sure that you are not enrolled in a class that has a conflicting final exam.**
 
 ### Grading ###
-In the calculation of your overall score, we will drop
-- your lowest homework scores
-
 Course grades will be assigned using the following weighted components:
 - Homework 30%
 - Labs 20%
