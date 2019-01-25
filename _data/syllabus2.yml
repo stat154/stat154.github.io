@@ -14,7 +14,7 @@ weeks:
       content: "Lecture 2: Problem formulation with a case study and data collection"
       assignments:
         - name: HW 1 (Matrix algebra, Due 02/06)
-          url:
+          url: /homework/hw1.pdf
 
   - weekNum: 2
     weekName: PCS Case study
