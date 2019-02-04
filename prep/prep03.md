@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 2 Preparation Guide
+title: Week 3 Preparation Guide
 ---
 
 Please do the required reading before leture.
