@@ -71,7 +71,7 @@ weeks:
     - date: Mon 02/18
       content: "Lab"
     - date: Tue 02/19
-      content: "Lecture 9: Least squares"
+      content: "Lecture 9: K-means, GMM and EM"
       assignments:
         - name: Week 5 Guide
           url: /prep/prep05
