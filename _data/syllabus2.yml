@@ -79,7 +79,7 @@ weeks:
     - date: Thu 02/21
       content: "Lecture 10: Linear regression"
       assignments:
-        - name: Project 1 (EDA on Redwoord data, Due 03/06)
+        - name: Project 1 (EDA on Redwoord data, Due 03/08) + Short HW3
           url:
 
 
@@ -111,7 +111,7 @@ weeks:
     - date: Thu 03/07
       content: "Lecture 14: Model Assessment"
       assignments:
-        - name: HW 3 (Linear regression, TBA, Due 03/20)
+        - name: HW 4 (Linear regression, TBA, Due 03/20)
           url:
 
 
@@ -143,7 +143,7 @@ weeks:
     - date: Thu 03/21
       content: "Midterm in class"
       assignments:
-        - name: HW 4 (Classification, TBA, Due 04/03)
+        - name: HW 5 (Classification, TBA, Due 04/03)
           url:
 
 
@@ -201,7 +201,7 @@ weeks:
     - date: Thu 04/18
       content: "Lecture 21: Tree-based methods"
       assignments:
-        - name: HW 5 (Nonlinear methods, Due 04/31)
+        - name: HW 6 (Nonlinear methods, Due 04/31)
           url:
 
   - weekNum: 14
